@@ -1,0 +1,15 @@
+{
+  "name": "prosper",
+  "version": "1.0.0",
+  "description": "evian",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
